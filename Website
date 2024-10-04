@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Support Detroit residents in affordable housing investments powered by Ally Bank.">
+    <title>Invest in Detroit Housing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Invest in Detroit Housing</h1>
+        <p>Powered by Ally Bank</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#how-it-works">How It Works</a></li>
+                <li><a href="#impact">Impact</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About the Program</h2>
+        <p>This program empowers Detroit residents to invest in affordable housing developments through fractional ownership. It provides an opportunity to earn returns while helping to solve the housing crisis.</p>
+    </section>
+
+    <section id="how-it-works">
+        <h2>How It Works</h2>
+        <div class="steps">
+            <div class="step">
+                <h3>Fractional Ownership</h3>
+                <p>Detroiters can invest in a portion of housing projects, gaining ownership in local developments.</p>
+            </div>
+            <div class="step">
+                <h3>Crowdfund Mortgages</h3>
+                <p>Funding comes directly from the community, reducing the burden of traditional mortgages.</p>
+            </div>
+            <div class="step">
+                <h3>Earn Returns</h3>
+                <p>Investors receive returns on their investments as developments grow and thrive.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="impact">
+        <h2>Community Impact</h2>
+        <p>Strengthen community ties by increasing local ownership, promoting sustainable housing, and driving economic mobility.</p>
+        <div class="impact-cards">
+            <div class="card">
+                <h3>Affordable Housing</h3>
+                <p>Making housing accessible to more Detroit residents.</p>
+            </div>
+            <div class="card">
+                <h3>Local Ownership</h3>
+                <p>Empowering Detroiters to own a stake in their city’s future.</p>
+            </div>
+            <div class="card">
+                <h3>Economic Mobility</h3>
+                <p>Creating a pathway for residents to grow wealth and build community.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:info@detroithousing.com">info@detroithousing.com</a></p>
+        <p>Phone: (313) 123-4567</p>
+    </footer>
+</body>
+</html>
